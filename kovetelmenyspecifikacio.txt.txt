@@ -1,17 +1,18 @@
 Követelményspecifikáció:
 
-Jelenlegi helyzet leírása.
+Jelenlegi helyzet leírása. (Gabi)
 
-Vágyálomrendszer leírása - Külön fájlban található!
+Vágyálomrendszer leírása - Külön fájlban található! (Ildi)
 
-A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
+A rendszerre vonatkozó pályázat, törvények, rendeletek, 
+szabványok és ajánlások felsorolása. (Gabi)
 
-Jelenlegi üzleti folyamatok modellje.
+Jelenlegi üzleti folyamatok modellje. (Marcsi)
 
-Igényelt üzleti folyamatok modellje.
+Igényelt üzleti folyamatok modellje.(Marcsi)
 
 Követelménylista.
 
-Irányított és szabad szöveges riportok szövege.
+Irányított és szabad szöveges riportok szövege.(Gabi)
 
 Fogalomszótár.
