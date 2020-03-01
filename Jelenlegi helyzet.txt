@@ -1,0 +1,15 @@
+Jelenlegi helyzet:
+
+Az iskolában rengeteg fénymásoló papír, illetve toner és patron fogy a
+másolások és nyomtatások következtében. Nem csak anyagilag nem tudja a tankerület, 
+a kollégák, a szülõk fedezni ezt a költséget, de az iskola elnyerte az ÖKO iskola
+címet és a fenntarthatóság irányába elkötelezettséget vállalt. Így mindenképpen
+meg kell szüntetni a fent nevezett problémát, amelyre lehetséges megoldásnak 
+egy digitális, online kiadható és nyomonkövethetõ rendszer alkalmassá válhat.
+
+A szülõk ezen felül a gyerekek iskolatáskájának súlyára panaszkodnak. Az iskola 
+vezetõsége az iskola védõnõjével egyeztetve megállapította, hogy a táskák tényleg
+nehezek, csökkenteni kell a gyerekeknek a hazacipelendõ felszerelések mennyiségét és
+súlyát. Ez szintén kivédhetõ egy online házi feladat kiadó rendszerrel. Mivel jelenleg a
+legtöbb tankönyvet matematikából kell hazavinniük, elsõ lépésben ezen tantárgyra alapuló
+házi feladat kiadó rendszert tervezünk. 
