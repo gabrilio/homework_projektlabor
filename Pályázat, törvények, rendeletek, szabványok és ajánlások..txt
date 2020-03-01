@@ -1,0 +1,15 @@
+A rendszerre vonatkozó pályázat, 
+törvények, rendeletek, szabványok és ajánlások felsorolása
+
+- mivel a rendszer regisztrációhoz kötött, ezért a jelenleg hatályos és ide
+vonatkozó GDPR / adatvédelmi törvényt komolyan figyelembe kell venni és betartani
+
+- mivel gyerekeknek készülõ rendszerrõl van szó, a GDPR kimondja, hogy használata 
+szülõi beleegyezéshez kötött (16 év)
+
+- A GDPR 32. cikke értelmében a felhasználónévvel és jelszóval történõ azonosítás 
+során eszközök és szolgáltatások esetén is technikai és szervezési intézkedéseket kell 
+hozni. A felhasználók biztonságos azonosítása elengedhetetlen a bizalmasság, integritás 
+és az adatok, rendszerek, és szolgáltatások rendelkezésre állásának folyamatos 
+biztosítása miatt
+

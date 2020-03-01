@@ -1,5 +1,11 @@
 Funkcionális specifikáció
-A funkcionális specifikáció a felhasználó szemszögébõl írja le a rendszert. A követelményelemzésbõl ismerjük az elkészítendõ rendszer üzleti folyamatait. Ezeket kell átalakítanunk funkciókká, azaz menükké, gombokká, lenyíló listákká. A funkcionális specifikáció központi eleme a használati esetek (use case). A használati esetek olyan egyszerû ábrák, amelyet a megrendelõ könnyen megért mindenféle informatikai elõképzettség nélkül. A funkcionális specifikáció fontosabb részei:
+A funkcionális specifikáció a felhasználó szemszögébõl írja le a rendszert. 
+A követelményelemzésbõl ismerjük az elkészítendõ rendszer üzleti folyamatait. 
+Ezeket kell átalakítanunk funkciókká, azaz menükké, gombokká, lenyíló listákká. 
+A funkcionális specifikáció központi eleme a használati esetek (use case). 
+A használati esetek olyan egyszerû ábrák, amelyet a megrendelõ könnyen megért 
+mindenféle informatikai elõképzettség nélkül. A funkcionális specifikáció fontosabb 
+részei:
 Jelenlegi helyzet leírása.
 Vágyálomrendszer leírása.
 A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
