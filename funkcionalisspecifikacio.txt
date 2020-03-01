@@ -6,11 +6,12 @@ A funkcionális specifikáció központi eleme a használati esetek (use case).
 A használati esetek olyan egyszerû ábrák, amelyet a megrendelõ könnyen megért 
 mindenféle informatikai elõképzettség nélkül. A funkcionális specifikáció fontosabb 
 részei:
-Jelenlegi helyzet leírása.
-Vágyálomrendszer leírása.
-A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
-Jelenlegi üzleti folyamatok modellje.
-Igényelt üzleti folyamatok modellje.
+Jelenlegi helyzet leírása. (Gabi)
+Vágyálomrendszer leírása. (Ildi)
+A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások
+felsorolása. (Gabi)
+Jelenlegi üzleti folyamatok modellje. (Marcsi)
+Igényelt üzleti folyamatok modellje. (Marcsi)
 Követelménylista.
 Használati esetek.
 Képernyõtervek.
