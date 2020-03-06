@@ -36,15 +36,20 @@ Az admin adhat hozzá új felhasználót és új admint (=tanárt) is.
  
 
 IRÁNYÍTOTT
-Az irányított riport feladata a követelmények számszerûsítése (Pontosan hány alkalmazott van a cégnél?), 
-a nemfunkcionális igények felderítése (Milyen gyors legyen a rendszer?), 
-illetve a megrendelõ figyelmének felhívása a szokásos megoldásokra 
-(Legyen jelentés készítõ alrendszer?). A mellékletben megtalálható néhány példa kérdõív.
-Kétféle irányított riportról beszélhetünk:
-? tisztázó riport,
-? alrendszer riport.
-A tisztázó riport, ahogy a nevében is benne van, tisztázó kérdéseket tartalmaz. 
-Ezek a kérdések általában egy fogalom vagy folyamat felderítésére szolgálnak.
-Mik a rendszer fontos tulajdonágai?
-? Kérem, mondja el forgatókönyv szerûen, hogyan szeretné használni a rendszert a belépéstõl a kilépésig!
+
+Kérem, mondja el forgatókönyv szerûen, hogyan szeretné használni a rendszert 
+a belépéstõl a kilépésig!
+
+A rendszer belépõ oldalához vezetõ linket, logót szeretnénk az iskola holnapjára elhelyezni. A képre
+kattintva megnyílik a weboldal. A fõ oldalon egy matematika tartalmú képet szeretnénk, illetve azt
+kiírni, hogy "A rendszert csak a Csengey Gusztáv Általános Iskola, Aszód, pedagógusai használják."
+
+A belépés menüpontra (jobb felsõ sarok) kattintva egy beléptetõ felület jelenik meg, ahová 
+a felhasználó nevét és jelszavát kell beírni, majd a bejelentkezés gombra kattintani. Aki még nem
+regisztrált, az itt a regisztráció gombra nyomva átkerül egy Regisztráció felületre, ahová nevet, 
+emailcímet és jelszót kell megadni.  
+
+? Hány diák és kolléga regisztrációjára lehet készülni?
 ? Milyen kivételes helyzetekre kell felkészülni?
+
+
