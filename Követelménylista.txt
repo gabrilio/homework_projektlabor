@@ -1,6 +1,19 @@
 Követelménylista
 
-Modul 1. Leírás
-Név
-Kifejtés
+1. 	Modul:  	Nyitólap
+	Név: 		Nyitólap
+	Kifejtés:	Ez az oldal fogadja az oldal látogatóit. Tartalmaz egy matekos képet és tájékoztatja
+			a felhasználót hogy mely iskola tanárai használják a feladatgenerátort. 
+			Az oldalon a Belépés menüpont választható. 
+
+2. 	Modul:		Jogosultság
+	Név:		Belépés		
+	Kifejtés: 	Bejelentkezés Név és Jelszó megadásával, ha a felhasználó még nem regisztrált, 
+			a Regisztráció linkre kattintva megteheti. Sikertelen bejelentkezésrõl értesíti
+			a felhasználót.
+			Sikeres regisztráció után a felhasználó automatikusan belép. 
+
+3.	Modul: 		PL-modul
+	Név:		Felhasználói információk
+	Kifejtés: 				
 
