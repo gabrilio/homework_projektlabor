@@ -1,0 +1,10 @@
+Forgatókönyv
+
+Diák Dezsõ matematikus szeretne lenni, ezért úgy döntött, megfogadja professzorának, Matemati Kusnak
+tanácsát és regisztrál a matekfeladatkészítõ rendszerbe. Amikor megnyitja a weboldalt, elõször
+kitalál magának valamilyen frankó nevet és jelszót és regisztrál az oldalra. Ezután megnyílik elõtte
+a tudás mágikus tárháza!
+Kiválaszthatja, miben szeretne topra kerülni - összeadás, kivonás, szorzás, osztás? Netalán minden 
+együtt? Naná! Kiválasztja, hogy vegyes feladatokat gyakorol és azokból is a legnagyobb, a hatszámjegyû
+fába vágja fejszéjét. Lekér 20 feladatot. Kicsit fél, de rábök a Feladatlap létrehozása gombra.
+Kész! Tollat, papírt ragad
