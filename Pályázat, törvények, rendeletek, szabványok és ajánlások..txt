@@ -13,3 +13,7 @@ hozni. A felhasználók biztonságos azonosítása elengedhetetlen a bizalmasság, int
 és az adatok, rendszerek, és szolgáltatások rendelkezésre állásának folyamatos 
 biztosítása miatt
 
+Szabványok:
+A legáltalánosabb képformátumokat (jpeg, png) elfogadja, bármelyik mobiltelefonnal vagy szkennerrel
+beolvasott kép feltölthetõ legyen.
+

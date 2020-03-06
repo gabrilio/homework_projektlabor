@@ -1,0 +1,50 @@
+SZABAD SZÖVEGES
+
+Hogyan mûködjön az új rendszer, hogyan mûködjön együtt a meglévõ rendszerekkel? 
+
+Jelenleg nincsen semmilyen ehhez hasonló online rendszerünk, amellyel házi feladatot adunk
+ki a diákoknak. A KRÉTA rendszer az, amit õk is nyomon követhetnek a Kréta ellenõrzõ
+segítségével, de mivel az egy állami rendszer, semmilyen kötõdést nem lehet és nem is
+szereténk kialakítani vele.
+Az iskola holnapja a másik olyan online felület, ahol a diákok (szülõk) megjelenhetnek,
+zömében böngészési céllal, esetleg a holnapról is elérhetõ Kréta belépési útvonal végett.
+Legcélszerûbbnek azt tartjuk, ha itt, a fõ oldalon jelenik meg a házi feladat rendszer
+belépési felülete is. Ez az egyetlen kötõdés már meglévõ rendszerünkhöz.
+
+Mind pedagógusnak, mind diáknak szükséges lenne egy belépési azonosító és egy jelszó, amit
+maga tud megadni a regisztrációkor. A belépési azonosítót a felhasználó adja meg a jelszóval 
+együtt, nem szeretnénk külön generáltatni minden egyes diáknak / szülõnek.
+-ugyanarra az emailcímre ne lehessen többször regisztrálni
+-ugyanarra a felhasználónévre se
+A felületen tudja kiválasztani, hogy 
+a) vegyes feladatokat akar csinálni
+b) összeadást
+c) kivonást
+d) szorzást 
+e) vagy osztást kíván gyakorolni.
+
+A rendszer tegye lehetõvé, hogy a kiadott feladatot a diák kinyomtathassa, ha szeretné, de le 
+is írhatja, sõt, a papír spórolás jegyében talán ez utóbbi kapjon majd fõ hangsúlyt, de ez nem 
+a rendszer feladata, hanem a feladatot kiadó kollégáké, hogy a fenttarthatóságra ösztönözze
+a diákokat. 
+Az elkészített feladatról a diák fényképet készít a telefonjával és csak egyszerûen, a feltöltés
+gombra kattintva feltölti a rendszerbe. 
+
+A tanárokat adminként kell regisztrálni, így õk ellenõrizhetik a feladatokat, törölhetik azokat.
+Az admin adhat hozzá új felhasználót és új admint (=tanárt) is.
+
+ 
+
+IRÁNYÍTOTT
+Az irányított riport feladata a követelmények számszerûsítése (Pontosan hány alkalmazott van a cégnél?), 
+a nemfunkcionális igények felderítése (Milyen gyors legyen a rendszer?), 
+illetve a megrendelõ figyelmének felhívása a szokásos megoldásokra 
+(Legyen jelentés készítõ alrendszer?). A mellékletben megtalálható néhány példa kérdõív.
+Kétféle irányított riportról beszélhetünk:
+? tisztázó riport,
+? alrendszer riport.
+A tisztázó riport, ahogy a nevében is benne van, tisztázó kérdéseket tartalmaz. 
+Ezek a kérdések általában egy fogalom vagy folyamat felderítésére szolgálnak.
+Mik a rendszer fontos tulajdonágai?
+? Kérem, mondja el forgatókönyv szerûen, hogyan szeretné használni a rendszert a belépéstõl a kilépésig!
+? Milyen kivételes helyzetekre kell felkészülni?
