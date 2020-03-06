@@ -48,8 +48,17 @@ A belépés menüpontra (jobb felsõ sarok) kattintva egy beléptetõ felület jelenik 
 a felhasználó nevét és jelszavát kell beírni, majd a bejelentkezés gombra kattintani. Aki még nem
 regisztrált, az itt a regisztráció gombra nyomva átkerül egy Regisztráció felületre, ahová nevet, 
 emailcímet és jelszót kell megadni.  
+Regisztráció és sikeres belépés után a felületen a tanuló ki tudja választani, hogy mit akar vagy mit
+kell neki gyakorolni. Legenerálja a feladatokat és papíron megoldja õket, majd lefényképezi.
+A felületen a feltöltés gombra kattintva, kitallózhatja a képet, feltölti, amit az admin a saját
+felületén megnéz, ellenõriz. Ellenõrzés után a feltöltött kép törölhetõ.
 
-? Hány diák és kolléga regisztrációjára lehet készülni?
-? Milyen kivételes helyzetekre kell felkészülni?
+Hány diák és kolléga regisztrációjára lehet készülni?
+Körülbelül 100 diák regisztrációjára lehet számítani. Matematikaszakos pedagógusra adminként maximum
+3-4 fõre lehet majd számítani.
+
+Milyen kivételes helyzetekre kell felkészülni?
+Azt nem tudom :D 
+
 
 
