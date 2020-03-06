@@ -11,7 +11,7 @@ Jelenlegi üzleti folyamatok modellje. (Marcsi)
 
 Igényelt üzleti folyamatok modellje.(Marcsi)
 
-Követelménylista.
+Követelménylista - Külön fájlban található! (Ildi)
 
 Irányított és szabad szöveges riportok szövege.(Gabi)
 
