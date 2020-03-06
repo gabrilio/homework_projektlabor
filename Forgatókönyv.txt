@@ -1,10 +1,21 @@
 Forgatókönyv
 
-Diák Dezsõ matematikus szeretne lenni, ezért úgy döntött, megfogadja professzorának, Matemati Kusnak
+Diák Dezsõ matematikus szeretne lenni, ezért úgy döntött, megfogadja professzorának, Matemati Kussnak
 tanácsát és regisztrál a matekfeladatkészítõ rendszerbe. Amikor megnyitja a weboldalt, elõször
 kitalál magának valamilyen frankó nevet és jelszót és regisztrál az oldalra. Ezután megnyílik elõtte
 a tudás mágikus tárháza!
-Kiválaszthatja, miben szeretne topra kerülni - összeadás, kivonás, szorzás, osztás? Netalán minden 
-együtt? Naná! Kiválasztja, hogy vegyes feladatokat gyakorol és azokból is a legnagyobb, a hatszámjegyû
+
+Kiválaszthatja, miben szeretne top lenni - összeadás, kivonás, szorzás, osztás? Netalán minden 
+együtt? Naná! Lgördít a vegyes feladatokhoz és azokból is a legnagyobb, a hatszámjegyû
 fába vágja fejszéjét. Lekér 20 feladatot. Kicsit fél, de rábök a Feladatlap létrehozása gombra.
-Kész! Tollat, papírt ragad
+Kész! Tollat, papírt ragad és megoldja a feladatokat.
+
+A kész feladatlapot lefotózza és feltölti. Hátradõl, elégedetten vigyorog és várja, mit szól hozzá
+tanára. 
+
+Mrs Kuss, az admin, vagyis nem, az ADMIN, csupa nagybetûvel, belép a rendszerbe. Látja ám, hogy Dezsõke
+szorgalmas volt és a neve mellett egy kép található. Rábök, az megnyílik nagyban, így már a 
+rövidlátó professzorasszony is látja, amit látnia kell. Minden helyes! Atyaég!
+Másnap elsõ dolga az iskolában megkeresni DD-t és megveregetni a vállát. "Ügyes vagy, fiam. Te lehetsz
+a következõ Albert Einstein." 
+
