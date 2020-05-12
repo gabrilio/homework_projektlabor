@@ -1,0 +1,39 @@
+#worksheet { 
+}
+.no-print {
+    width:90%;
+  background-color: white;
+  font-family: trebuchet ms;
+  line-height: 1.5;
+}
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+
+#title {
+  font-size: 20pt;
+  font-family: Times New Roman;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-bottom: #000000 solid 1px;
+  margin-bottom: 10px;
+}
+
+
+.equation {
+  font-size: 20pt;
+  font-family: Times New Roman;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: #CCCCCC dashed 1px;
+}
+
+
+.number {
+  color: blue;
+}
