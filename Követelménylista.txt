@@ -13,7 +13,21 @@ Követelménylista
 			a felhasználót.
 			Sikeres regisztráció után a felhasználó automatikusan belép. 
 
-3.	Modul: 		PL-modul
+3.	Modul: 		"PL-modul"
 	Név:		Felhasználói információk
-	Kifejtés: 				
+	Kifejtés: 	A felhasználó üdvözlése, jogosultságának megfelelõ profilkép megjelenítése.
+
+	Név:		Feladatgenerátor
+	Kifejtés:	3 legördülõ menü segítségével kiválasztható a mûveletek típusa, a számjegyek száma
+			és a generálandó feladatok száma.
+			Feladatlap létrehozása, és Feladatlap nyomtatása gombok.
+
+	Név:		A kész feladatok feltöltése
+	Kifejtés:	Feltöltés gomb, a feltöltendõ kép kiválasztása, majd a felhasználó által feltöltött 
+			(minden) kép megjelenik a táblázatban kép feltöltõjének nevével együtt. 
+			A kép jobb klikkel új ablakban megnyitható.
+
+			Adminként minden feltöltés látható, a feltöltõ nevével, és 2 gombbal: 
+			Visszajelzés: a tanár megköszöni a kép cseréjével a munkát
+			Törlés: a tanár törölheti a visszaküldött feladatokat.			
 

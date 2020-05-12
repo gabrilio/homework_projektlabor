@@ -1,177 +1,167 @@
 Rendszerterv
 
-1. A rendszer cÃ©lja:
+1. A rendszer célja:
 
-	HÃ¡zi feladatok Ã©s szorgalmi feladatok kiadÃ¡sa tantÃ¡rgyhoz kÃ¶tÃ¶tten. 
-R	egisztrÃ¡ciÃ³ utÃ¡n hasznlÃ¡hatÃ³ a felÃ¼let, ahovÃ¡ a diÃ¡k elkÃ©szÃ¼lt munkÃ¡irÃ³l fÃ©nykÃ©pet tÃ¶lthet fel.
+	Házi feladatok és szorgalmi feladatok kiadása tantárgyhoz kötötten. 
+	Regisztráció után hasznláható a felület, ahová a diák elkészült munkáiról fényképet tölthet fel.
 
 2. Projekt terv:
 
-2.1. Projekt szerepkÃ¶rÃ¶k: Ã¶tletgazda, fejlesztÅ‘, Ã¼zleti terv kÃ©szÃ­tÅ‘, hÃ¡ttÃ©radminisztrÃ¡ciÃ³ kÃ©szÃ­tÅ‘
-2.2. Projekt munkÃ¡sok: Gabi, Ildi, Marcsi, Adri
-2.3. Ãœtemterv:
-     1. Feladat megismerÃ©se
-     2. Ã–tletelÃ©s
-     3. MegvalÃ³sÃ­thatÃ³ Ã¶tlet kivÃ¡lasztÃ¡sa
-     4. Feladatot kiadÃ¡sa
-     5. FejlesztÃ©s
-     6. DokumentumkidolgozÃ¡s
-     7. EgyeztetÃ©s
-     8. TesztelÃ©s
-     9. Projekt vÃ©glegesÃ­tÃ©se
-     10. Projekt bemutatÃ¡sa
-2.4. MÃ©rfÃ¶ldkÃ¶vek:
-     1. Ã–tletelÃ©s
-     2. MegvalÃ³sÃ­tÃ¡s
-     3. Munkafolyamatok Ã¶sszehangolÃ¡sa, kapcsolattartÃ¡s
-     4. Ã–nÃ¡llÃ³ munkÃ¡k Ã¶sszefÃ©sÃ¼lÃ©se 
-     5. Projekt vÃ©glegesÃ­tÃ©se
+2.1. Projekt szerepkörök: ötletgazda, fejlesztõ, üzleti terv készítõ, háttéradminisztráció készítõ
+2.2. Projekt munkások: Gabi, Ildi, Marcsi, Adri
+2.3. Ütemterv:
+     1. Feladat megismerése
+     2. Ötletelés
+     3. Megvalósítható ötlet kiválasztása
+     4. Feladatot kiadása
+     5. Fejlesztés
+     6. Dokumentumkidolgozás
+     7. Egyeztetés
+     8. Tesztelés
+     9. Projekt véglegesítése
+     10. Projekt bemutatása
+2.4. Mérföldkövek:
+     1. Ötletelés
+     2. Megvalósítás
+     3. Munkafolyamatok összehangolása, kapcsolattartás
+     4. Önálló munkák összefésülése 
+     5. Projekt véglegesítése
 
-3. Ãœzleti folyamatok modellje
+3. Üzleti folyamatok modellje
 
-3.1. Ãœzleti szereplÅ‘k:
-	MegrendelÅ‘: iskola, matematika tanÃ¡ra
-	KÃ©szÃ­tÅ‘k: tanÃ¡rok, akik Ã©rtenek a programozÃ¡shoz
-3.2. Ãœzleti folyamatok:
-	MegrendelÃ©s: online feladatkiadÃ³ rendszer
-	FejlesztÃ©s: a projekt kidolgozÃ¡sa Ã¶tlet szinten
-	GyÃ¡rtÃ¡s: a projekt gyakorlati megvalÃ³sÃ­tÃ¡sa
-	TesztelÃ©s: a projekt kiprÃ³bÃ¡lÃ¡sa
-	BemutatÃ¡s: a projekt Ã¡tadÃ¡sa amegrendelÅ‘nek
-	KarbantartÃ¡s: a szÃ¼ksÃ©ges javÃ­tÃ¡sok elvÃ©gzÃ©se
-3.3. Ãœzleti entitÃ¡sok:
-	HasznÃ¡lhatÃ³, felhasznÃ¡lÃ³barÃ¡t, fejleszthetÅ‘, aktualizÃ¡lhatÃ³, Ã¡talakÃ­thatÃ³
+3.1. Üzleti szereplõk:
+	Megrendelõ: iskola, matematika tanára
+	Készítõk: tanárok, akik értenek a programozáshoz
+3.2. Üzleti folyamatok:
+	Megrendelés: online feladatkiadó rendszer
+	Fejlesztés: a projekt kidolgozása ötlet szinten
+	Gyártás: a projekt gyakorlati megvalósítása
+	Tesztelés: a projekt kipróbálása
+	Bemutatás: a projekt átadása amegrendelõnek
+	Karbantartás: a szükséges javítások elvégzése
+3.3. Üzleti entitások:
+	Használható, felhasználóbarát, fejleszthetõ, aktualizálható, átalakítható
 
-4. KÃ¶vetelmÃ©nyek
+4. Követelmények
 
-4.1. FunkcionÃ¡lis kÃ¶vetelmÃ©nyek:
-	KÃ¶nnyÅ± hasznÃ¡lhatÃ³sÃ¡g, felhasznÃ¡lÃ³barÃ¡t megvalÃ³sÃ­tÃ¡sok.
-	RegisztrÃ¡ciÃ³hoz kÃ¶tÃ¶tt hasznÃ¡lat.
-	Feladatok visszatÃ¶ltÃ©sÃ©nek lehetÅ‘sÃ©ge.
-	FeladatgenerÃ¡lÃ¡s
-4.2. NemfunkcionÃ¡lis kÃ¶vetelmÃ©nyek:
-	A felÃ¼let kinÃ©zete
+4.1. Funkcionális követelmények:
+	Könnyû használhatóság, felhasználóbarát megvalósítások.
+	Regisztrációhoz kötött használat.
+	Feladatok visszatöltésének lehetõsége.
+	Feladatgenerálás
+4.2. Nemfunkcionális követelmények:
+	A felület kinézete
 
-4.3. TÃ¶rvÃ©nyi elÅ‘Ã­rÃ¡sok, szabvÃ¡nyok:
-	A hatÃ¡lyos jogszabÃ¡lyok figyelembe vÃ©telÃ©vel kÃ©szÃ¼lt a terv.
+4.3. Törvényi elõírások, szabványok:
+	A hatályos jogszabályok figyelembe vételével készült a terv.
 	GDPR
 
-5. FunkcionÃ¡lis terv:
+5. Funkcionális terv:
 
-5.1. Rendszer szereplÅ‘k:
-	AdminisztrÃ¡torok
-	FelhasznÃ¡lÃ³k
-5.2. Rendszer hasznÃ¡lati esetek Ã©s lefutÃ¡saik:
-	Feladatlap generÃ¡lÃ¡s
-	KÃ©sz munkÃ¡rÃ³l a fÃ©nykÃ©p feltÃ¶ltÃ©se
-5.3. HatÃ¡r osztÃ¡lyok:
-	SajÃ¡t felhssznÃ¡lÃ³i fiÃ³kok
-	AdminisztrÃ¡ciÃ³s felÃ¼let
-	FeltÃ¶ltÃ©si felÃ¼let
-	BelÃ©pÃ©si felÃ¼let
-	RegisztrÃ¡ciÃ³s felÃ¼let
-5.4. MenÃ¼ hierarchiÃ¡k:
-	FÅ‘menÃ¼
-	FelhasznÃ¡lÃ³i fiÃ³kok
+5.1. Rendszer szereplõk:
+	Adminisztrátorok
+	Felhasználók
+5.2. Rendszer használati esetek és lefutásaik:
+	Feladatlap generálás
+	Kész munkáról a fénykép feltöltése
+5.3. Határ osztályok:
+	Saját felhssználói fiókok
+	Adminisztrációs felület
+	Feltöltési felület
+	Belépési felület
+	Regisztrációs felület
+5.4. Menü hierarchiák:
+	Fõmenü
+	Felhasználói fiókok
 	Feladatlapok
-	VisszatÃ¶ltÃ©si felÃ¼let
-5.5. KÃ©pernyÅ‘tervek:
-	KÃ¼lÃ¶n fÃ¡jlban feltÃ¶ltve.
+	Visszatöltési felület
+5.5. Képernyõtervek:
+	Külön fájlban feltöltve.
 
-6. Fizikai kÃ¶rnyezet
+6. Fizikai környezet
 
-6.1. VÃ¡sÃ¡rolt softwer komponensek Ã©s kÃ¼lsÅ‘ rendszerek:
+6.1. Vásárolt softwer komponensek és külsõ rendszerek:
 	Visual Studio
 	Windows
-	Internetes bÃ¶ngÃ©szÅ‘k(Firefox, Chrom, Opera, Exploler)
-6.2. Hardver Ã©s hÃ¡lÃ³zati topolÃ³gia:
-	SajÃ¡t szÃ¡mÃ­tÃ³gÃ©pek
-	SajÃ¡t okostelefonok
+	Internetes böngészõk(Firefox, Chrom, Opera, Exploler)
+6.2. Hardver és hálózati topológia:
+	Saját számítógépek
+	Saját okostelefonok
 	Iskolai szerver
 	Iskolai honlap
 6.3. Fizikai alrendszerek:
-	Iskolai hÃ¡lÃ³zat
-	Otthoni internethozzÃ¡fÃ©rÃ©s
+	Iskolai hálózat
+	Otthoni internethozzáférés
 	Mobilinternet kapcsolat
-6.4. FejlesztÅ‘ kÃ¶rnyezet:
-	A kÃ©szÃ­tÅ‘k sajÃ¡t laptopja
-	A sajÃ¡t tanÃ¡ri asztal Ã©s dolgozÃ³szoba
+6.4. Fejlesztõ környezet:
+	A készítõk saját laptopja
+	A saját tanári asztal és dolgozószoba
 6.5. Keretrendszer:
-	SajÃ¡t fejlesztÃ©s
-	Iskolai hÃ¡lÃ³zat
+	Saját fejlesztés
+	Iskolai hálózat
 
 7. Absztrakt domain modell:
 
-7.1. Domain specifikÃ¡ciÃ³, fogalmak:
-	Az iskolai honlap hasznÃ¡latÃ¡val, az iskola sajÃ¡t domainjÃ©rÅ‘l elÃ©rhetÅ‘.
+7.1. Domain specifikáció, fogalmak:
+	Az iskolai honlap használatával, az iskola saját domainjérõl elérhetõ.
 7.2. Absztrakt komponensek, ezek kapcsolatai:
-	A tanÃ¡r Ã©s diÃ¡k Ã³rai munkÃ¡jÃ¡nak kiegÃ©szÃ­tÃ©se.
-	A diÃ¡kok digitÃ¡lis kompetenciÃ¡jÃ¡nak fejlesztÃ©se.
-	MotivÃ¡ciÃ³
+	A tanár és diák órai munkájának kiegészítése.
+	A diákok digitális kompetenciájának fejlesztése.
+	Motiváció
 
-8. ArchitekturÃ¡lis terv
+8. Architekturális terv
 
-8.1 Az alkalmazÃ¡s rÃ©tegei, fÅ‘ komponensei, ezek kapcsolatai:
-	NyitÃ³lap
-	FelhasznÃ¡lÃ³i felÃ¼letek
-	FeladatlapgenerÃ¡lÃ¡s
-	FÃ©nykÃ©pek feltÃ¶ltÃ©si felÃ¼lete
-	SajÃ¡t felhasznÃ¡lÃ³i fiÃ³k
-8.2. VÃ¡ltozÃ¡sok kezelÃ©se:
-	A rendszer vÃ¡ltoztathatÃ³ tetszÃ©s szerint mÃ¡s tantÃ¡rgyakhoz is.
-	A felhasznÃ¡lÃ³k szÃ¡ma is bÅ‘vÃ­thetÅ‘ vagy szÅ±kÃ­thetÅ‘
-8.3. Rendszer bÅ‘vÃ­thetÅ‘sÃ©ge:
-	A rendszer vÃ¡ltoztathatÃ³ tetszÃ©s szerint mÃ¡s tantÃ¡rgyakhoz is.
-	A felhasznÃ¡lÃ³k szÃ¡ma is bÅ‘vÃ­thetÅ‘ vagy szÅ±kÃ­thetÅ‘.
-8.4. BiztonsÃ¡gi funkciÃ³k:
-	RegisztrÃ¡ciÃ³ szÃ¼ksÃ©ges
-	FelhasznÃ¡lÃ³ nem tÃ¶rÃ¶lhet. 
-	AdminisztrÃ¡tori jogkÃ¶r vÃ¡ltoztathatÃ³.
-	AdattÃ¡rolÃ¡s, adatkezelÃ©s megfelel a jogszabÃ¡lyoknak.
+8.1 Az alkalmazás rétegei, fõ komponensei, ezek kapcsolatai:
+	Nyitólap
+	Felhasználói felületek
+	Feladatlapgenerálás
+	Fényképek feltöltési felülete
+	Saját felhasználói fiók
+8.2. Változások kezelése:
+	A rendszer változtatható tetszés szerint más tantárgyakhoz is.
+	A felhasználók száma is bõvíthetõ vagy szûkíthetõ
+8.3. Rendszer bõvíthetõsége:
+	A rendszer változtatható tetszés szerint más tantárgyakhoz is.
+	A felhasználók száma is bõvíthetõ vagy szûkíthetõ.
+8.4. Biztonsági funkciók:
+	Regisztráció szükséges
+	Felhasználó nem törölhet. 
+	Adminisztrátori jogkör változtatható.
+	Adattárolás, adatkezelés megfelel a jogszabályoknak.
 
-9. AdatbÃ¡zis terv
+9. Adatbázis terv
 
 9.1. Logikai adatmodell:
-	Szupertitkos, nem adhatÃ³ ki.
-9.2. TÃ¡rolt eljÃ¡rÃ¡sok
-	Szupertitkos, nem adhatÃ³ ki.
-9.3. Fizikai adatmodellt legenerÃ¡lÃ³ SQL szkript:
-	Szupertitkos, nem adhatÃ³ ki.
+	Szupertitkos, nem adható ki.
+9.2. Tárolt eljárások
+	Szupertitkos, nem adható ki.
+9.3. Fizikai adatmodellt legeneráló SQL szkript:
+	Szupertitkos, nem adható ki.
 
-10. ImplementÃ¡ciÃ³s terv
+10. Implementációs terv
 
-10.1. Perzisztencia osztÃ¡lyok:
-	Szupertitkos, nem adhatÃ³ ki.
-10.2. Ãœzleti ligikai osztÃ¡lyai:
-	Szupertitkos, nem adhatÃ³ ki.
-10.3. Kliens oldal osztÃ¡lyai:
-	Szupertitkos, nem adhatÃ³ ki.
+10.1. Perzisztencia osztályok:
+	Szupertitkos, nem adható ki.
+10.2. Üzleti ligikai osztályai:
+	Szupertitkos, nem adható ki.
+10.3. Kliens oldal osztályai:
+	Szupertitkos, nem adható ki.
 
 11. Tesztterv
 
-	A kÃ©sz projektet elsÅ‘ kÃ¶rben a kÃ©szÃ­tÅ‘k tesztelik. 
-	A mÃ¡sodik kÃ¶rben a sajÃ¡t csalÃ¡djuk is beszÃ¡ll a tesztelÃ©sbe.
-	A vÃ©gsÅ‘ tesztnÃ©l iskolÃ¡s gyerekek prÃ³bÃ¡ljÃ¡k ki a rendszert.
-	A tesztelÃ©s sorÃ¡n fontos, hogy a rendszer megfeleljen a cÃ©ljainak.
-	A tesztek sorÃ¡n minden lehetÅ‘sÃ©get kiprÃ³bÃ¡lunk, amik a valÃ³ Ã©letben is elÅ‘fordulhatnak.
-	Fokozott hasznÃ¡latnak is kiteszÃ¼k a rendszert.
-	A tesztek akkor sikeresek, ha felhasznÃ¡lÃ³k Ã¶rÃ¶mmel hasznÃ¡ljÃ¡k a rendszert.
+	A kész projektet elsõ körben a készítõk tesztelik. 
+	A második körben a saját családjuk is beszáll a tesztelésbe.
+	A végsõ tesztnél iskolás gyerekek próbálják ki a rendszert.
+	A tesztelés során fontos, hogy a rendszer megfeleljen a céljainak.
+	A tesztek során minden lehetõséget kipróbálunk, amik a való életben is elõfordulhatnak.
+	Fokozott használatnak is kiteszük a rendszert.
+	A tesztek akkor sikeresek, ha felhasználók örömmel használják a rendszert.
 
-12. TelepÃ­tÃ©si terv:
-	Az iskola rendszerÃ©re, honlapjÃ¡ra telepÃ­tjÃ¼k a rendszert, ahonnan kÃ¶nnyen elÃ©rhetÅ‘.
+12. Telepítési terv:
+	Az iskola rendszerére, honlapjára telepítjük a rendszert, ahonnan könnyen elérhetõ.
 
-13. KarbantartÃ¡si terv:
-	A szÃ¼ksÃ©ges hibÃ¡k eseti javÃ­tÃ¡sa. 
-	RendszerfrissÃ­tÃ©s, aktualizÃ¡lÃ¡s igÃ©ny szerint.
-
-
-
-
-
-
-
-
-
-
+13. Karbantartási terv:
+	A szükséges hibák eseti javítása. 
+	Rendszerfrissítés, aktualizálás igény szerint.
 
 

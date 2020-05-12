@@ -1,61 +1,58 @@
-KÃ¶vetelmÃ©nyelemzÃ©s
+Követelményelemzés
 
-Rendszer cÃ©lja:
+Rendszer célja:
 
-Egy tantÃ¡rgyra alapulÃ³ hÃ¡zi feladat kiadÃ³ rendszer lÃ©trehozÃ¡sa, 
-ami nagy terheket venne le a tanÃ¡rokrÃ³l Ã©s a diÃ¡kokrÃ³l is.
+Egy tantárgyra alapuló házi feladat kiadó rendszer létrehozása, 
+ami nagy terheket venne le a tanárokról és a diákokról is.
 
-FunkciÃ³nÃ¡lis kÃ¶vetelmÃ©nyel:
+Funkciónális követelményel:
 
-A rendszer hasznÃ¡lhatÃ³ legyen a diÃ¡kok Ã©s atanÃ¡rok szÃ¡mÃ¡ra. 
-A hÃ¡zi feladatok Ã©s a szorgalmi feladatok kiadÃ¡sa akÃ¡r szemÃ©lyre szabottan is megtÃ¶rtÃ©nhet. 
-Nem szÃ¼ksÃ©ges a kÃ¼lÃ¶n feladatokhoz papÃ­ralapÃº feladatlap nyomtatÃ¡sa, fÃ©nymÃ¡solÃ¡sa.
-A diÃ¡kok az okostelefonjuk segÃ­tsÃ©gÃ©vel is hozzÃ¡fÃ©rnek a rendszerhez. 
-A feladatok visszatÃ¶ltÃ©se is igen egyszerÅ±, csak lefÃ©nykÃ©pezik a munkÃ¡jukat Ã©s feltÃ¶ltik a rendszerbe.
+A rendszer használható legyen a diákok és atanárok számára. 
+A házi feladatok és a szorgalmi feladatok kiadása akár személyre szabottan is megtörténhet. 
+Nem szükséges a külön feladatokhoz papíralapú feladatlap nyomtatása, fénymásolása.
+A diákok az okostelefonjuk segítségével is hozzáférnek a rendszerhez. 
+A feladatok visszatöltése is igen egyszerû, csak lefényképezik a munkájukat és feltöltik a rendszerbe.
 
-Nem funkcionÃ¡lis kÃ¶vetelmÃ©nyek:
+Nem funkcionális követelmények:
 
-A rendszer akkor is hasznÃ¡lhatÃ³ hÃ¡zi feladat kiadÃ¡sÃ¡ra, ha a diÃ¡k nincs iskolÃ¡ban.
-A rendszer tovÃ¡bbfejlesztÃ©se is elkÃ©pzelhetÅ‘, ha a felhasznÃ¡lÃ³knak igÃ©nyÃ¼k van rÃ¡. 
-A rendszer automatikusan Ã¶sszekapcsolÃ³dik intÃ©zmÃ©nyi honlappal is.
-A felhasznÃ¡lÃ³k adatai biztonsÃ¡gosan vannak kezelve, szemÃ©lyes adatok megadÃ¡sa nem szÃ¼ksÃ©ges.
-A rendszerbÅ‘l csak adminisztrÃ¡tori hozzÃ¡fÃ©rÃ©ssel tÃ¶rÃ¶lhetÅ‘k felhasznÃ¡lÃ³i adatok.
-A diÃ¡kok nem lÃ¡thatjÃ¡k egymÃ¡s munkÃ¡it automatikusan, megosztÃ¡si lehetÅ‘sÃ©g nincsen.
+A rendszer akkor is használható házi feladat kiadására, ha a diák nincs iskolában.
+A rendszer továbbfejlesztése is elképzelhetõ, ha a felhasználóknak igényük van rá. 
+A rendszer automatikusan összekapcsolódik intézményi honlappal is.
+A felhasználók adatai biztonságosan vannak kezelve, személyes adatok megadása nem szükséges.
+A rendszerbõl csak adminisztrátori hozzáféréssel törölhetõk felhasználói adatok.
+A diákok nem láthatják egymás munkáit automatikusan, megosztási lehetõség nincsen.
 
-MegrendelÅ‘ kÃ©rÃ©sei:
+Megrendelõ kérései:
 
-Egy olyan felÃ¼let lÃ©trehozÃ¡sa, ami alkalmas hÃ¡zi feladatok Ã©s szorgalmi feladatok kiadÃ¡sÃ¡ra online.
-A rendszer egyszerÅ± Ã©s jÃ³l kezelhetÅ‘ legyen.
-TÃºl sok felhasznÃ¡lÃ³ ne fÃ©rhesen hozzÃ¡ a rendszerhez egyszerre.
-A rendszer Ã¶sszekapcsolhatÃ³ legyen az iskola honlapjÃ¡val.
+Egy olyan felület létrehozása, ami alkalmas házi feladatok és szorgalmi feladatok kiadására online.
+A rendszer egyszerû és jól kezelhetõ legyen.
+Túl sok felhasználó ne férhesen hozzá a rendszerhez egyszerre.
+A rendszer összekapcsolható legyen az iskola honlapjával.
 
-FelhasznÃ¡lÃ³i felÃ¼let meghatÃ¡rozÃ¡sa:
+Felhasználói felület meghatározása:
 
-A felÃ¼let legyen egyszrÅ±, Ã©s egyÃ©retlmÅ±en kezelhetÅ‘. 
-Csak magyar nyelvÅ± felÃ¼let legyen.
-A felhasznÃ¡lÃ³k jogosultsÃ¡guknak megfelelÅ‘ szinteken tudjanak dolgozni a rendszerben.
-A regisztrÃ¡ciÃ³ ne igÃ©nyeljen szemÃ©lyes adatokat.
-BÃ¡rmilyen emailcÃ­mmel hasznÃ¡lhatÃ³ legyen.
-Az adatvÃ©delmi elvÃ¡rÃ¡sokat szem elÅ‘tt tartva tÃ¡roljon adatokat a rendszer. 
-JÃ³l olvashatÃ³ak legyenek a funkciÃ³k.
+A felület legyen egyszrû, és egyéretlmûen kezelhetõ. 
+Csak magyar nyelvû felület legyen.
+A felhasználók jogosultságuknak megfelelõ szinteken tudjanak dolgozni a rendszerben.
+A regisztráció ne igényeljen személyes adatokat.
+Bármilyen emailcímmel használható legyen.
+Az adatvédelmi elvárásokat szem elõtt tartva tároljon adatokat a rendszer. 
+Jól olvashatóak legyenek a funkciók.
 
-A rendszer funkcionÃ¡lis mÅ±kÃ¶dÃ©se:
+A rendszer funkcionális mûködése:
 
-A tanÃ¡rnak lehetÅ‘sÃ©ge lesz a rendszer segÃ­tsÃ©gÃ©vel Ãºgy hÃ¡zi feladatot, vagy szorgalmi feladatokat.
-A diÃ¡kok is egyszerÅ±en feltÃ¶lthetik az Ã¡ltaluk kÃ©szÃ­tett munkÃ¡rÃ³l a fÃ©nykÃ©peiket.
-A tanÃ¡r akkor is tud hÃ¡zit kiadni, ha a diÃ¡k hÃ¡nyzik az iskolÃ¡bÃ³l.
-A diÃ¡kok sokkal nyitottabbak egy digitÃ¡lis rendszer hasznÃ¡latÃ¡ra, Ã­gy szÃ­vesebben oldjÃ¡k meg a feladatikat.
-A feladatok generÃ¡lÃ¡sa lehetÅ‘vÃ© teszi, hogy egy diÃ¡k tÃ¶bbszÃ¶r, kÃ¼lÃ¶nbÃ¶zÅ‘ feladatsorokat oldjon meg.
-A tanÃ¡r a diÃ¡k neve mellett azonnal lÃ¡tja a feltÃ¶ltÃ¶tt kÃ©pet, Ã©s tudja ellenÅ‘rizni.
-A diÃ¡kok nem tudjÃ¡k tÃ¶rÃ¶lni a kÃ©peiket, csak az admin jogosultsÃ¡gÃº tanÃ¡r teheti ezt meg.
+A tanárnak lehetõsége lesz a rendszer segítségével úgy házi feladatot, vagy szorgalmi feladatokat.
+A diákok is egyszerûen feltölthetik az általuk készített munkáról a fényképeiket.
+A tanár akkor is tud házit kiadni, ha a diák hányzik az iskolából.
+A diákok sokkal nyitottabbak egy digitális rendszer használatára, így szívesebben oldják meg a feladatikat.
+A feladatok generálása lehetõvé teszi, hogy egy diák többször, különbözõ feladatsorokat oldjon meg.
+A tanár a diák neve mellett azonnal látja a feltöltött képet, és tudja ellenõrizni.
+A diákok nem tudják törölni a képeiket, csak az admin jogosultságú tanár teheti ezt meg.
 
-A rendszer hasznÃ¡lati esetei:
+A rendszer használati esetei:
 
-1. HÃ¡zi felaadta kiadÃ¡sa az Ã³ra tÃ©mÃ¡jÃ¡hoz.
-2. Szorgalmi feladat kiadÃ¡sa egy tÃ©makÃ¶rhÃ¶z.
-3. GyakorlÃ³ feladatok kiadÃ¡sa egy tÃ©makÃ¶rhÃ¶z.
-4. DifferenciÃ¡lt feladatkiadÃ¡s.
-5. TanulÃ³i aktivitÃ¡s nyomon kÃ¶vetÃ©se.
-
-
-
+1. Házi felaadta kiadása az óra témájához.
+2. Szorgalmi feladat kiadása egy témakörhöz.
+3. Gyakorló feladatok kiadása egy témakörhöz.
+4. Differenciált feladatkiadás.
+5. Tanulói aktivitás nyomon követése.
