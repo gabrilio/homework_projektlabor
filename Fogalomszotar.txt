@@ -1,4 +1,4 @@
-Fogalomszótár:
+﻿Fogalomszótár:
 Nyitólap: 
 Ez a projekt kezdőoldala, ahonnan megnyitható a rendszer.
 
@@ -6,13 +6,13 @@ Felhasználó:
 Az a személy, aki az oldalon dolgozni tud.
 
 Belépés menüpont:
-Ez a funkció teszi klehetővé az oldalra való belépést.
+Ez a funkció teszi lehetővé az oldalra való belépést.
 
 Jogosultság:
-Azon lehetőségek, amiket a felhasználók csinálhatnak az oldaon.
+Azon lehetőségek, amiket a felhasználók csinálhatnak az oldalon.
 
 Regisztráció:
-Az első bejelentkezés előtti adatmegadás, ahhoz, hogy az oldal használható legyen.
+Az első bejelentkezés előtti adatmegadás ahhoz, hogy az oldal használható legyen.
 
 Név:
 Az a név, amivel a felhasználók beazonosíthatóak.
