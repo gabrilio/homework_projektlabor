@@ -1,0 +1,60 @@
+Tesztelési eljárás leírása
+
+1. Lépések:
+  1.1 Tanuló
+    1. Regisztráció a rendszerbe
+    2. Belépés a rendszerbe
+    3. Ismerkedés a rendszerrel
+    4. A rendszer funkcióinak feltérképezése és kipróbálása.
+    5. Feladatlap generálás 
+    6. Feladatlap lementése
+    7. Feladatlap nyomtatása
+    8. Fénykép feltöltése
+    9. Fénykép törlése
+    10. Kilépés a rendszerbõl
+    
+    
+  1.2.Tanár
+    1. Regisztráció a renszerbe
+    2. Belépés a rendszerbe
+    3. Ismerkedés a rendszerrel
+    4. A rendszer funkcióinak feltérképezése és kipróbálása.
+    5. Feladatlap generálás 
+    6. Feladatlap lementése
+    7. Feladatlap nyomtatása
+    8. Fénykép feltöltése
+    9. Fénykép törlése
+    10. Kilépés a rendszerbõl
+  
+    
+2. Bemeneti esetek:
+    Ugyanazok, mint a tesztelés lépései.
+    
+3. Várt értékek:
+  3.1 Tanuló
+      - Be tudjon regisztrálni.
+      - Be tudjon lépni.
+      - Ismerje meg a rendszer funkcióit.
+      - Generáljon magának egy feladatlapot.
+      - Töltse le a feladatlapot.
+      - Nyomtassa ki a feladatlapot.
+      - Töltsön fel egy fényképet. 
+      - Töröljön feltöltött fényképet.
+      - Lépjen ki a rendszerbõl.
+      - Lépjen be többször a rendszerbe és használja.
+
+  3.2 Tanár
+      - Be tudjon regisztrálni.
+      - Be tudjon lépni.
+      - Ismerje meg a rendszer funkcióit.
+      - Generáljon magának egy feladatlapot.
+      - Töltse le a feladatlapot.
+      - Nyomtassa ki a feladatlapot.
+      - Töltsön fel egy fényképet. 
+      - Töröljön feltöltött fényképet.
+      - Lépjen ki a rendszerbõl.
+      - Lépjen be többször a rendszerbe és használja.
+
+4. Verifikációs metódus:
+    - A tesztelõk beszámolói, tapasztalatai alapján meghatározzuk a következõ lépéseket.
+  
