@@ -1,0 +1,35 @@
+Teszterv
+
+1. Tesztelés követelményei:
+  - tesztet lebonyolító személyek
+  - tesztet elvégzõ személyek
+  - tesztelésre alkalmas állapotú weboldal
+  - internetkapcsolat
+  - a weboldal eléréséhez szükséges link
+
+2. Teszte terjedelme:
+ - Az önként jelentkezõ diákok meghatározott ideig használhatják a rendszert.
+ - A tesztidõ lejárta után beszámolónak a tapasztalataikról.
+ - A beszámolók alapján elkészülnek a teszteredmények.
+ 
+3. Teszt szerepe a fejlesztésben:
+ - A rendszerben lévõ esetleges hibák feltárása.
+ - Kevésbé hasznos funkciók kiválasztása.
+ - Funkciók átalakítása igény szerint a jobb használat érdekében.
+ 
+4. Tesztelési esetek:
+ - Regisztráció
+ - Belépés a rendszerbe
+ - Feladatok feltöltése a rendszerbe (tanár)
+ - Feladatgenerálás
+ - Feladatlap letöltése
+ - Feladatlap nyomtatása
+ - Fénykép feltöltése a kész munkáról
+ 
+ 5. Tesztelési stratégia:
+  - Cél, hogy a tesztelõk kipróbálják a rendszert.
+  - A rendszer használatának viszgálata, hogy megfelelõen mûködik-e.
+  - Szélsõséges esetek kipróbálására a jelenlegi karanténhelyzet nem ad lehetõséget.
+  
+ 
+  
