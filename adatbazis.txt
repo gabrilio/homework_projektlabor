@@ -1,0 +1,26 @@
+Adatbázis
+
+A projekthez egy viszonylag kicsi, egyszerû adatbázis tartozik. 
+
+Az adatbázis neve: szorgalmi
+
+2 tábla található benne: 
+	users	
+	tbl_images
+
+A users tábla tartalmazza a felhasználók beléptetéséhez szükséges adatokat, 
+	az elsõdleges kulcs az "id"
+	"username"
+	"usertype"
+	"email" és 
+	"password".
+
+A tbl_images tábla a feltöltött feladatok adatait tartalmazza:
+	itt is az "id" az elsõdleges kulcs
+	"name" tartalmazza magát a képet 
+	"tulajdonos"
+	"dátum". 
+
+
+
+	
